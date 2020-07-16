@@ -1,3 +1,3 @@
 # Flutter QR Code
 
-### Read and Generate qr codes
+### Generate and Scan QR Codes
